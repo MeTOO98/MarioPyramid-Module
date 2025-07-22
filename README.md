@@ -26,10 +26,10 @@ Each function takes a single argument h, which represents the height of the pyra
 
 M_pyramid_sh1(4)
 Output:
-         *
-        **
-       ***
-      ****
+        ### *
+        ###**
+       ###***
+      ###****
 
 M_pyramid_sh2(4)
 Output:
