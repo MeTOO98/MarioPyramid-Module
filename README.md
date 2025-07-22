@@ -14,6 +14,7 @@ You can clone the repository and use the module directly:
 
 ##### bash
 git clone https://github.com/your-username/MarioPyramid.git
+
 cd MarioPyramid
 
 Then import it in your Python project:
