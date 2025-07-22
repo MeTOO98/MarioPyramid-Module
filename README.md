@@ -32,25 +32,25 @@ M_pyramid_sh1(4)
                    ****
 
 M_pyramid_sh2(4)
-# Output:
-# ****
-# *** 
-# **  
-# *   
+### Output:
+                  ****
+                  *** 
+                  **  
+                  *   
 
 M_pyramid_sh3(4)
-# Output:
-# ****
-#  ***
-#   **
-#    *
+### Output:
+                 ****
+                  ***
+                   **
+                    *
 
 M_pyramid_sh4_list(4)
-# Output:
-# ****
-# *** 
-# **  
-# *   
+### Output:
+                 ****
+                 *** 
+                 **  
+                 *   
 
 
 | Function Name           | Description                                 |
