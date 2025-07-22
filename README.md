@@ -18,8 +18,9 @@ git clone https://github.com/your-username/MarioPyramid.git
 cd MarioPyramid
 
 ```
-```bash
 Then import it in your Python project:
+
+```bash
 
 From MarioPyramid import M_pyramid_sh1, M_pyramid_sh2, M_pyramid_sh3, M_pyramid_sh4_list
 
