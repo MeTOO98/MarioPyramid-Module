@@ -23,34 +23,34 @@ from MarioPyramid import M_pyramid_sh1, M_pyramid_sh2, M_pyramid_sh3, M_pyramid_
 ## Usage 
 
 Each function takes a single argument h, which represents the height of the pyramid.
-'''
+
 M_pyramid_sh1(4)
-# Output:
-#    *
-#   **
-#  ***
-# ****
+Output:
+         *
+        **
+       ***
+      ****
 
 M_pyramid_sh2(4)
-# Output:
-# ****
-# *** 
-# **  
-# *   
+Output:
+        ****
+        *** 
+        **  
+        *   
 
 M_pyramid_sh3(4)
-# Output:
-# ****
-#  ***
-#   **
-#    *
+Output:
+       ****
+        ***
+         **
+          *
 
 M_pyramid_sh4_list(4)
-# Output:
-# ****
-# *** 
-# **  
-# *
+Output:
+       ****
+       *** 
+       **  
+       *
 
 | Function Name           | Description                                 |
 | ----------------------- | ------------------------------------------- |
