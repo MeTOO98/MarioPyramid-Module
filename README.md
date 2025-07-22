@@ -20,7 +20,7 @@ Then import it in your Python project:
 
 from MarioPyramid import M_pyramid_sh1, M_pyramid_sh2, M_pyramid_sh3, M_pyramid_sh4_list
 
-## Usage
+## Usage 
 Each function takes a single argument h, which represents the height of the pyramid.
 
 M_pyramid_sh1(4)
