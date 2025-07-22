@@ -12,7 +12,7 @@ MarioPyramid is a simple Python module that provides four different functions to
 
 You can clone the repository and use the module directly:
 
-```bash
+bash
 git clone https://github.com/your-username/MarioPyramid.git
 cd MarioPyramid
 
@@ -21,6 +21,7 @@ Then import it in your Python project:
 from MarioPyramid import M_pyramid_sh1, M_pyramid_sh2, M_pyramid_sh3, M_pyramid_sh4_list
 
 ## Usage 
+
 Each function takes a single argument h, which represents the height of the pyramid.
 
 M_pyramid_sh1(4)
